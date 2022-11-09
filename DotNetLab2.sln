@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetLab2.2", "DotNetLab2.2\DotNetLab2.2.csproj", "{7DA02D54-3199-4A51-9B90-F1CE73132A54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{7F140A33-0896-4862-9A85-30A87AF5DA26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA02D54-3199-4A51-9B90-F1CE73132A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA02D54-3199-4A51-9B90-F1CE73132A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA02D54-3199-4A51-9B90-F1CE73132A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA02D54-3199-4A51-9B90-F1CE73132A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F140A33-0896-4862-9A85-30A87AF5DA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F140A33-0896-4862-9A85-30A87AF5DA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F140A33-0896-4862-9A85-30A87AF5DA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F140A33-0896-4862-9A85-30A87AF5DA26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54A54ED6-5913-4F7D-9CA9-2006E6B3111A}
+	EndGlobalSection
+EndGlobal

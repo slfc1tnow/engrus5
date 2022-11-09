@@ -1,0 +1,16 @@
+C:\Users\bzagl\source\repos\DotNetLab2\DotNetLab2.2\bin\Debug\net5.0\DotNetLab2.2.exe
+C:\Users\bzagl\source\repos\DotNetLab2\DotNetLab2.2\bin\Debug\net5.0\DotNetLab2.2.deps.json
+C:\Users\bzagl\source\repos\DotNetLab2\DotNetLab2.2\bin\Debug\net5.0\DotNetLab2.2.runtimeconfig.json
+C:\Users\bzagl\source\repos\DotNetLab2\DotNetLab2.2\bin\Debug\net5.0\DotNetLab2.2.runtimeconfig.dev.json
+C:\Users\bzagl\source\repos\DotNetLab2\DotNetLab2.2\bin\Debug\net5.0\DotNetLab2.2.dll
+C:\Users\bzagl\source\repos\DotNetLab2\DotNetLab2.2\bin\Debug\net5.0\DotNetLab2.2.pdb
+C:\Users\bzagl\source\repos\DotNetLab2\DotNetLab2.2\obj\Debug\net5.0\DotNetLab2.2.csproj.AssemblyReference.cache
+C:\Users\bzagl\source\repos\DotNetLab2\DotNetLab2.2\obj\Debug\net5.0\DotNetLab2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bzagl\source\repos\DotNetLab2\DotNetLab2.2\obj\Debug\net5.0\DotNetLab2.2.AssemblyInfoInputs.cache
+C:\Users\bzagl\source\repos\DotNetLab2\DotNetLab2.2\obj\Debug\net5.0\DotNetLab2.2.AssemblyInfo.cs
+C:\Users\bzagl\source\repos\DotNetLab2\DotNetLab2.2\obj\Debug\net5.0\DotNetLab2.2.csproj.CoreCompileInputs.cache
+C:\Users\bzagl\source\repos\DotNetLab2\DotNetLab2.2\obj\Debug\net5.0\DotNetLab2.2.dll
+C:\Users\bzagl\source\repos\DotNetLab2\DotNetLab2.2\obj\Debug\net5.0\ref\DotNetLab2.2.dll
+C:\Users\bzagl\source\repos\DotNetLab2\DotNetLab2.2\obj\Debug\net5.0\DotNetLab2.2.pdb
+C:\Users\bzagl\source\repos\DotNetLab2\DotNetLab2.2\obj\Debug\net5.0\DotNetLab2.2.genruntimeconfig.cache
+C:\Users\bzagl\source\repos\DotNetLab2\DotNetLab2.2\obj\Debug\net5.0\refint\DotNetLab2.2.dll
